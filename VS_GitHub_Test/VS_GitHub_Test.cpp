@@ -12,6 +12,9 @@ int main()
     //sfgsd sdfsd 
     return 0;
     //sfs
+    //是法国
+    //色地方s
+    ///嘀咕嘀咕
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
